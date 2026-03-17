@@ -82,11 +82,11 @@ Geoinformatics Lab · Spatial analysis · Remote sensing · Python · GEE
 
 ## Contact
 
-- 📧 arifulislam.bsmrau@gmail.com
-- 📞 419-378-6949
+-
+- 
 - 🔗 [LinkedIn](https://linkedin.com/in/arifulislam)
 - 💻 [GitHub](https://github.com/ArifullIslamEsri)
-- 📍 Charlotte, NC — Available September 2025
+- 
 
 ---
 
