@@ -84,8 +84,8 @@ Geoinformatics Lab · Spatial analysis · Remote sensing · Python · GEE
 
 -
 - 
-- 🔗 [LinkedIn](https://linkedin.com/in/arifulislam)
-- 💻 [GitHub](https://github.com/ArifullIslamEsri)
+- 🔗 [LinkedIn](https://linkedin.com/in/)
+- 💻 [GitHub]((https://github.com/ArifulIslamEsri))
 - 
 
 ---
